@@ -28,6 +28,10 @@ Pivots use [encrypted drives][1] to temporarily add their SSH Keys in any machin
 
 ## Using the drive
 
+Call the `load` script with the number of hours that you want to keep your keys in the system. If you don't give it a number of hours it will load them for one hour.
 
+```
+/run/media/cpi/LinuxKey/load 3
+```
 
 [1]: http://tammersaleh.com/posts/building-an-encrypted-usb-drive-for-your-ssh-keys-in-os-x/
