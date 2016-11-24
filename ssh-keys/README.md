@@ -1,6 +1,6 @@
 # SSH Keys
 
-Pivots use [encrypted drives][1] to temporarily add their SSH Keys in any machiney they work. Follow the following instructions in order to create an ecrypted drive for your SSH Keys in Linux.
+Pivots use [encrypted drives][1] to temporarily add their SSH Keys in any machiney they work. Follow these instructions to create such an encrypted drive for your SSH Keys using Linux.
 
 ## Setup the drive
 
