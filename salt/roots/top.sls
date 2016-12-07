@@ -1,0 +1,3 @@
+base:
+  '*':
+    - cpi_packages
